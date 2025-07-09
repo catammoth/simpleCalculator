@@ -65,11 +65,7 @@ button:active {
   color: #000;
 }
 
-.operator {
-  background-color: #ff9f0a;
-}
-
-button.equal {
+.operator, button.equal {
   background-color: #ff9f0a;
 }
 
